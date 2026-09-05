@@ -13,7 +13,7 @@ Forked from [ibm-developer-skills-network](https://github.com/ibm-developer-skil
 2. Navigate to a clone folder in terminal
 3. Run in terminal ```npm install```
 4. Run in terminal ```npm run preview```
-5. Follow link to view React Application with a form in a web browser
+5. Follow link to view React Application with a shopping cart in a web browser
 
 # React + Vite
 
