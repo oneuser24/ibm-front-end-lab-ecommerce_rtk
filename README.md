@@ -1,5 +1,5 @@
 # coding-project-template
-Forked from [ibm-developer-skills-network](https://github.com/ibm-developer-skills-network/ecommerce_rtk.git))
+Forked from [ibm-developer-skills-network](https://github.com/ibm-developer-skills-network/ecommerce_rtk.git)
 
 # IBM Front-end Course Lab: E-Commerce Data Rendering using Redux Toolkit
 
